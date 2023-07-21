@@ -1,0 +1,9 @@
+
+.containerContact{
+    background: radial-gradient(#ffffff, #d6e9ff);  
+    height: 100%;
+
+}
+.form-control{
+   max-width: 50%;
+}
